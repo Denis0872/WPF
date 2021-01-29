@@ -8,6 +8,7 @@ namespace WindowsFormsLab3Task1Library
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
+
         /// <summary> 
         /// Clean up any resources being used.
         /// </summary>
